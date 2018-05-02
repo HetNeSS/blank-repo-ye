@@ -38,13 +38,4 @@ grey outline
 + REMOVE THE BUDGED INTO THE WALL LIGHT SWITCH
 
 
-
-39,4
-24
-
-38,0
-24
-
-
-A community PR request, based on IsdatAfamas wish on PR #21258. Morgue and autopsy switched places, for quicker access to the morgue and to remove the need to pass through the autopsy area every time. both areas, as well as crematorium got visually some more space, but had to do some unusual tweaks to the autopsy zone to fit everything in. mapmerge completed, tested via dedicated serv.
-
+аштшырув афоклфо еапдофц апдфц
