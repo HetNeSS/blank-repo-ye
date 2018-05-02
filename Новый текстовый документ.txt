@@ -1,0 +1,50 @@
+mediatronic jukebox
+
+
+list(5)
+list(82,45)
+
+req_access - {}
+req_one_access - newlist()
+
+
+
+meson vision > set sensor augmentation
+
+old site
+~~~~~~~~~~~
+autopsy
+~~~~~~~~~~~
++ table - autopsy scanner, scalpel
++ table - body bags x2
++ table - laptop computer (obj/item/modular_computer/laptop/preset/records)
++ table - pen, folder, paper bin
++ chest drawer
++ operating table (covered by painted ground - red corner, pale blue corner, floor decals)
++ sink
+~~~~~~~~~~
+morgue
+~~~~~~~~~~
+grey outline
++ morgue
+~~~~~~~~~~
++ morgue sliding door, window separation
+
+
++ RENAME THE CAMERAS LATER
++ add all the scrubbers and pumps back
++ sort out the incenerator room
++ put back the outlines
++ REMOVE THE BUDGED INTO THE WALL LIGHT SWITCH
+
+
+
+39,4
+24
+
+38,0
+24
+
+
+A community PR request, based on IsdatAfamas wish on PR #21258. Morgue and autopsy switched places, for quicker access to the morgue and to remove the need to pass through the autopsy area every time. both areas, as well as crematorium got visually some more space, but had to do some unusual tweaks to the autopsy zone to fit everything in. mapmerge completed, tested via dedicated serv.
+
